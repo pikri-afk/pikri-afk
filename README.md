@@ -62,42 +62,45 @@ help solve practical problems.
 
 ## Featured Projects
 
-> Academic and personal projects. Repository links will be added
-> as the projects are published on GitHub.
+### 01. [Cafe Management System](https://github.com/pikri-afk/cafe-web)
 
-### 01. Campus Lost & Found Reporting System
+A web-based cafe management application developed as an academic project for the Advanced Database course. The application helps manage cafe operations, customer records, transactions, and sales reports through an interactive dashboard.
 
-A campus application concept for managing lost and found item reports.
+**Key Features**
+- Secure authentication and session management
+- Interactive dashboard with sales charts
+- Menu and customer management (CRUD)
+- Transaction processing with multiple payment methods
+- Daily and monthly sales reports
+- MySQL database integration
 
-- User reporting for lost and found items
+**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript, Bootstrap, Chart.js
+
+### 02. Campus Lost & Found Reporting System
+
+A campus application project designed to manage lost and found item reports, with report verification and item-matching workflows.
+
+**Key Features**
+- Lost and found item reporting
 - Staff verification and report management
 - Item matching workflow
 
-**Technologies:** C#, MudBlazor, Entity Framework Core
-
-### 02. Cafe Online Ordering System
-
-A web application project designed to support cafe ordering and
-transaction management.
-
-- Role-based access for different types of users
-- Menu and category management
-- Ordering and transaction workflows
-
-**Technologies:** Laravel, PHP, MySQL
+**Tech Stack:** C#, MudBlazor, Entity Framework Core
 
 ### 03. CRUD & Database Applications
 
-A collection of application exercises and projects focused on
-database integration and data management.
+A collection of programming projects focused on database integration, data management, and application development.
 
+**Key Features**
 - Create, read, update, and delete operations
 - Form validation and data handling
-- Database connectivity
+- Relational database integration
 
-**Technologies:** PHP, Python, MySQL, SQLite
+**Tech Stack:** PHP, Python, MySQL, SQLite
 
 ---
+
+
 
 ## GitHub Statistics
 
